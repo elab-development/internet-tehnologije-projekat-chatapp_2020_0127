@@ -18,17 +18,11 @@ const Contact = () => {
     <div className="contact-container">
       <div className="contact-info">
         <h2>Kontakt Info</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus blanditiis, perferendis aliquam.</p>
+        <p>DR solutions je agencija koja se baci pruzanjem softverskih resenja.</p>
         <div className="location">
           <h4>Srbija</h4>
-          <p>Jove Ilica, Vozdovac, Beograd</p>
-          <p>+(381) 69 6789 123</p>
-          <p>info@mywebsite.com</p>
-        </div>
-        <div className="location">
-          <h4>United States</h4>
-          <p>Wall Street, New York, United States</p>
-          <p>+1 (222) 345 6789</p>
+          <p>Rastislava Marica, 11000, Beograd</p>
+          <p>+(381) 64 904 96 99</p>
           <p>info@mywebsite.com</p>
         </div>
       </div>
